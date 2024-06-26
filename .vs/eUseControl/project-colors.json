@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe40920f-bba7-4a5f-b7f5-be86f33f54fd": {
+      "ProjectGuid": "fe40920f-bba7-4a5f-b7f5-be86f33f54fd",
+      "DisplayName": "eUseControl",
+      "ColorIndex": 0
+    },
+    "17d25da8-6f9c-4408-be5e-832a07a1bb13": {
+      "ProjectGuid": "17d25da8-6f9c-4408-be5e-832a07a1bb13",
+      "DisplayName": "eUseControl.BusinessLogic",
+      "ColorIndex": 1
+    },
+    "c59ec59d-e7b9-4595-af71-a8bbe412aee0": {
+      "ProjectGuid": "c59ec59d-e7b9-4595-af71-a8bbe412aee0",
+      "DisplayName": "eUseControl.Domain",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

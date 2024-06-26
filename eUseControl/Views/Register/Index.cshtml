@@ -1,0 +1,65 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+@using System.Web.Optimization
+@model eUseControl.Models.UserRegister
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Signup</title>
+    <link rel="stylesheet" href="~/Vendors/Css/signup-style.css">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <main>
+        <div class="background">
+            <div class="text">
+                <h1>Signup</h1>
+                <p>Have an account? <a href="@Url.Action("Index","Login")">Login</a></p>
+            </div>
+            <div class="box">
+                @using (Html.BeginForm("Index", "Register", FormMethod.Post, new { @id = "RegisterForm" }))
+                {
+                    @Html.AntiForgeryToken()
+
+                    @Html.ValidationSummary(true)
+
+                    @Html.LabelFor(m => m.Credential, new { @class = "control-label" })
+                    @Html.TextBoxFor(m => m.Credential, new
+                    {
+                        placeholder = "Gabriel",
+                        title = "Please enter your username",
+                        @class = "form-control"
+                    })
+                    <span class="help-block small">Your unique username for the app</span>
+
+                    @Html.LabelFor(m => m.Email, new { @class = "control-label" })
+                    @Html.TextBoxFor(m => m.Email, new
+                    {
+                        @class = "form-control",
+                        type = "email",
+                        title = "Your email"
+                    })
+                    <span class="help-block small">Your email</span>
+
+                    @Html.LabelFor(m => m.Password, new { @class = "control-label" })
+                    @Html.PasswordFor(m => m.Password, new
+                    {
+                        @class = "form-control",
+                        title = "Please enter your password",
+                        placeholder = "******"
+                    })
+                    <span class="help-block small">Your strong password</span>
+
+                    <input type="submit" class="button" value="Register">
+                }
+            </div>
+        </div>
+    </main>
+</body>
+</html>

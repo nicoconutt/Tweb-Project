@@ -1,0 +1,60 @@
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.BusinessLogic.dll.config
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.BusinessLogic.dll
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.BusinessLogic.pdb
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\AutoMapper.dll
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\EntityFramework.dll
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.Domain.dll
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.Helpers.dll
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.Domain.pdb
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.Helpers.pdb
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\AutoMapper.xml
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\EntityFramework.xml
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.csproj.CopyComplete
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\obj\Debug\eUseControl.BusinessLogic.dll
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\obj\Debug\eUseControl.BusinessLogic.pdb
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\System.ValueTuple.dll
+C:\Users\gabyb\Desktop\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\System.ValueTuple.xml
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.BusinessLogic.dll.config
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.BusinessLogic.dll
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.BusinessLogic.pdb
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\AutoMapper.dll
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\EntityFramework.dll
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.Domain.dll
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.Helpers.dll
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\System.ValueTuple.dll
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.Domain.pdb
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.Helpers.pdb
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\AutoMapper.xml
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\EntityFramework.xml
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\System.ValueTuple.xml
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.csproj.CopyComplete
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\obj\Debug\eUseControl.BusinessLogic.dll
+C:\Users\gabyb\Desktop\Новая папка\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\obj\Debug\eUseControl.BusinessLogic.pdb
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.BusinessLogic.dll.config
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.BusinessLogic.dll
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.BusinessLogic.pdb
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\AutoMapper.dll
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\EntityFramework.dll
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.Domain.dll
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.Helpers.dll
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\System.ValueTuple.dll
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.Domain.pdb
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\eUseControl.Helpers.pdb
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\AutoMapper.xml
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\EntityFramework.xml
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\bin\Debug\System.ValueTuple.xml
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.csproj.CopyComplete
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\obj\Debug\eUseControl.BusinessLogic.dll
+C:\Users\gabyb\univer_anul_1-4\univer\univer\ANUL 2\sem 2\tw\Новая папка\maxim web\eUseControl\eUseControl.BussinesLogic\obj\Debug\eUseControl.BusinessLogic.pdb
